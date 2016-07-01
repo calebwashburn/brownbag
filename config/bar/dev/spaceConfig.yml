@@ -1,0 +1,13 @@
+org: bar
+space: dev
+space-developer-group: space_developers
+space-manager-group: space_managers
+space-auditor-group: ""
+allow-ssh: false
+enable-space-quota: false
+memory-limit: 0
+instance-memory-limit: 0
+total-routes: 0
+total-services: 0
+paid-service-plans-allowed: false
+enable-security-group: false

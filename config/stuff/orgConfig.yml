@@ -1,0 +1,10 @@
+org: stuff
+org-billingmanager-group: ""
+org-manager-group: ""
+org-auditor-group: ""
+enable-org-quota: false
+memory-limit: 0
+instance-memory-limit: 0
+total-routes: 0
+total-services: 0
+paid-service-plans-allowed: false

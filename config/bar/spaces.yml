@@ -1,0 +1,4 @@
+org: bar
+spaces:
+- dev
+- prod

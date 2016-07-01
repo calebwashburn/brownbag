@@ -1,0 +1,10 @@
+enabled: true
+ldapHost: ldap.caleb-washburn.com
+ldapPort: 389
+bindDN: cn=admin,dc=caleb-washburn,dc=com
+bindPwd: pivotal
+userSearchBase: ou=users,dc=caleb-washburn,dc=com
+userNameAttribute: uid
+userMailAttribute: mail
+groupSearchBase: ou=groups,dc=caleb-washburn,dc=com
+groupAttribute: member
